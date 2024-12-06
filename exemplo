@@ -1,8 +1,2 @@
-todo-list-app/
-├── index.html
-├── styles/
-│   └── style.css
-├── scripts/
-│   └── app.js
-├── README.md
-└── .gitignore
+OBJETIVO:
+Desenvolver um app para listar tarefas dos seus usuários.
